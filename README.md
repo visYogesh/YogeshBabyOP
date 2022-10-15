@@ -3,6 +3,7 @@
 I am currently pursuing my B.Tech in computer science. I am a novice open-source enthusiast. Find out more about me & feel free to connect with me here:
 
 
+# Holopin Badges 😀🧡
 [![@yogeshbabyop's Holopin board](https://holopin.me/yogeshbabyop)](https://holopin.io/@yogeshbabyop)
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-VenkataBhaskar-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/venkata-bhaskar-puppala-0287b321a)](https://linkedin.com/in/venkata-bhaskar-puppala-0287b321a)
