@@ -1,4 +1,4 @@
-## Hi, I am Yogesh! Glad to see you here!>
+## Hi 👋, I am Yogesh! Glad to see you here! 
 [![@yogeshbabyop's Holopin board](https://holopin.me/yogeshbabyop)](https://holopin.io/@yogeshbabyop)
 
 I am currently pursuing my B.Tech in computer science. I am a novice open-source enthusiast. Find out more about me & feel free to connect with me here:
