@@ -21,3 +21,4 @@ I am currently pursuing my B.Tech in computer science. I am a novice open-source
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YogeshBabyOP&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YogeshBabyOP&theme=tokyonight" />
 </p>
+[![@yogeshbabyop's Holopin board](https://holopin.me/yogeshbabyop)](https://holopin.io/@yogeshbabyop)
