@@ -1,5 +1,5 @@
 ## Hi, I am Yogesh! Glad to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="75px"
-[![@yogeshbabyop's Holopin board](https://holopin.me/yogeshbabyop)](https://holopin.io/@yogeshbabyop)
+(https://holopin.io/@yogeshbabyop)
 >
 
 I am currently pursuing my B.Tech in computer science. I am a novice open-source enthusiast. Find out more about me & feel free to connect with me here:
