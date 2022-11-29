@@ -18,6 +18,7 @@ I am currently pursuing my B.Tech in computer science. I am a novice open-source
 
 ### Have played around with 🥰😃:
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/-javascript-E34A86?style=flat-square&logo=openjdk)
 ![Python](https://img.shields.io/badge/-python-E34A86?style=flat-square&logo=openjdk)
 ## 📈 Stats
 <p align="center">
