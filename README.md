@@ -20,7 +20,7 @@ I am currently pursuing my B.Tech in computer science. I am a novice open-source
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/-javascript-E34A86?style=flat-square&logo=openjdk)
 ![Python](https://img.shields.io/badge/-python-E34A86?style=flat-square&logo=openjdk)
-## 📈 Stats
+# 📈 Stats
 <p align="center">
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YogeshBabyOP&show_icons=true&theme=tokyonight" />
