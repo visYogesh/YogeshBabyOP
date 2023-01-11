@@ -11,15 +11,16 @@ I am currently pursuing my B.Tech in computer science. I am a novice open-source
 [![Gmail Badge](https://img.shields.io/badge/-venkatabhaskarpuppala@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:venkatabhaskarpuppala@gmail.com)](mailto:venkatabhaskarpuppala@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Bhaskarstwt-blue?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/Bhaskarstwt)](https://www.twitter.com/Bhaskarstwt) -->
 
-<img src="https://activity-graph.herokuapp.com/graph?username=YogeshBabyOP&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
-
 
 ## ⚡ Technologies  
 
 ### Have played around with 🥰😃:
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/-javascript-E34A86?style=flat-square&logo=openjdk)
 ![Python](https://img.shields.io/badge/-python-E34A86?style=flat-square&logo=openjdk)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=openjdk)
+![Html](https://img.shields.io/badge/-python-E34A86?style=flat-square&logo=openjdk)
+![Css](https://img.shields.io/badge/-python-E34A86?style=flat-square&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/-javascript-E34A86?style=flat-square&logo=openjdk)
+
 # 📈 Stats
 <p align="center">
 	
