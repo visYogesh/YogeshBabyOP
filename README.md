@@ -24,10 +24,14 @@ I am currently pursuing my B.Tech in computer science. I am a novice open-source
 
 `gmail`
 tummayogesh1433@gmail.com
+
 `twitter`
 https://twitter.com/YogeshBabyOP
+
 `LeetCode`
 https://www.leetcode.com/yogeshop2003
+
+![](https://komarev.com/ghpvc/?username=YogeshBabyOP)
 
 # 📈 Stats
 <p align="center">
