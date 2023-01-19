@@ -36,7 +36,7 @@ https://www.leetcode.com/yogeshop2003
 
 # Contribution Graph
 
-[![Yogesh's contribution graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/YogeshbabyOP/github-readme-activity-graph)
+[![Yogesh's contribution graph](https://github-readme-activity-graph.cyclic.app/graph?username=YogeshBabyOP&theme=dracula)](https://github.com/YogeshbabyOP/github-readme-activity-graph)
 
 # 📈 Stats
 <p align="center">
