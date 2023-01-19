@@ -22,6 +22,10 @@ I am currently pursuing my B.Tech in computer science. I am a novice open-source
 ![JavaScript](https://img.shields.io/badge/-javascript-E34A86?style=flat-square&logo=openjdk)
 
 
+`gmail`
+tummayogesh1433@gmail.com
+`twitter`
+https://twitter.com/YogeshBabyOP
 `LeetCode`
 https://www.leetcode.com/yogeshop2003
 
