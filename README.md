@@ -19,7 +19,6 @@ I am currently pursuing my B.Tech in computer science. I am a novice open-source
 ![Css](https://img.shields.io/badge/-Css-E34A86?style=flat-square&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/-javascript-E34A86?style=flat-square&logo=openjdk)
 
-
 `gmail`
 tummayogesh1433@gmail.com
 
