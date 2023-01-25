@@ -21,6 +21,7 @@ I am currently pursuing my B.Tech in computer science. I am a novice open-source
 
 `gmail`
 tummayogesh1433@gmail.com
+[Yogesh](mailto:tummayogesh1433@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 `twitter`
 https://twitter.com/YogeshBabyOP
