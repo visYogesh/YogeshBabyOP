@@ -1,6 +1,9 @@
 ## Hi 👋❤️, I am Yogesh! Glad to see you here! 
 
-I am currently pursuing my B.Tech in computer science. I am a novice open-source enthusiast. Find out more about me & feel free to connect with me here:
+
+## DSA && DEV && OPEN SOURCE && GAMING
+
+
 
 # Holopin Badges ❤️
 [![@yogeshbabyop's Holopin board](https://holopin.me/yogeshbabyop)](https://holopin.io/@yogeshbabyop)
