@@ -4,7 +4,7 @@
 
 ![image](https://github.com/user-attachments/assets/aa40722a-c685-420c-9919-d2a573ff21f1)
 
-# Holopin Badges ❤️
+# Holopin Badges From Hacktober fest 2022 - 2024 ❤️
 [![@yogeshbabyop's Holopin board](https://holopin.me/yogeshbabyop)](https://holopin.io/@yogeshbabyop)
 
 <!-- [![Linkedin Badge](https://img.shields.io/badge/-VenkataBhaskar-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/venkata-bhaskar-puppala-0287b321a)](https://linkedin.com/in/venkata-bhaskar-puppala-0287b321a)
