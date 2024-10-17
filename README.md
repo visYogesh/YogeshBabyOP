@@ -1,6 +1,6 @@
 ## Hi 👋❤️, I am Yogesh! Glad to see you here! 
 
-### DSA && DEV && OPEN SOURCE && GAMING
+### DSA && DEV && OPEN SOURCE && GAMING.
 
 ![image](https://github.com/user-attachments/assets/aa40722a-c685-420c-9919-d2a573ff21f1)
 
