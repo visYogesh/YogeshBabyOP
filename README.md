@@ -7,11 +7,7 @@
 # Holopin Badges From Hacktober fest 2022 - 2024 ❤️
 [![@yogeshbabyop's Holopin board](https://holopin.me/yogeshbabyop)](https://holopin.io/@yogeshbabyop)
 
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-VenkataBhaskar-darkblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/venkata-bhaskar-puppala-0287b321a)](https://linkedin.com/in/venkata-bhaskar-puppala-0287b321a)
-[![Instagram Badge](https://img.shields.io/badge/-bhaskarsig-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/bhaskarsig)](https://instagram.com/bhaskarsig)
-[![Gmail Badge](https://img.shields.io/badge/-venkatabhaskarpuppala@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:venkatabhaskarpuppala@gmail.com)](mailto:venkatabhaskarpuppala@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Bhaskarstwt-blue?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/Bhaskarstwt)](https://www.twitter.com/Bhaskarstwt) -->
-
 
 ## ⚡ Technologies  
 ![Python](https://img.shields.io/badge/-python-E34A86?style=flat-square&logo=openjdk)
