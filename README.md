@@ -7,9 +7,6 @@
 # Holopin Badges From Hacktober fest 2022 - 2024 ❤️
 [![@yogeshbabyop's Holopin board](https://holopin.me/yogeshbabyop)](https://holopin.io/@yogeshbabyop)
 
-
-[![Twitter Badge](https://img.shields.io/badge/-Bhaskarstwt-blue?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/Bhaskarstwt)](https://www.twitter.com/Bhaskarstwt) -->
-
 ## ⚡ Technologies  
 ![Python](https://img.shields.io/badge/-python-E34A86?style=flat-square&logo=openjdk)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=openjdk)
