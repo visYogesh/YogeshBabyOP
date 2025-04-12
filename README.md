@@ -5,7 +5,6 @@
 ![image](https://github.com/user-attachments/assets/aa40722a-c685-420c-9919-d2a573ff21f1)
 
 
-
 # Holopin Badges From Hacktober fest 2022 - 2024 ❤️
 [![@yogeshbabyop's Holopin board](https://holopin.me/yogeshbabyop)](https://holopin.io/@yogeshbabyop)
 
